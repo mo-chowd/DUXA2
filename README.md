@@ -18,12 +18,9 @@ Sophie was a returning visitor who wanted to be able to interface the applicatio
 
 Margret was a regular visitor but wanted to be able to preorder items and request special services beforehand instead of asking every time in person. Having a form or a place for contacting on the website would be beneficial for her.
 
-<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/877e690d-03f7-4da0-9b01-1b4722a118f4" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34b8672f-d84e-4226-b0a2-e01c61d2bbc6" />
 _Home wireframe_
-<img width="1919" height="1097" alt="image" src="https://github.com/user-attachments/assets/58549520-725e-4aae-a6f2-4cec3408303d" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d2b8393-ed19-4063-929b-ba215c801f47" />
 _Menu wireframe_
-<img width="1919" height="1133" alt="image" src="https://github.com/user-attachments/assets/7b24e8c7-457e-4a02-98e6-52413efc83fa" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0e80c69e-f6f9-45e5-bc0f-ce0c294314f9" />
 _Contact Us wireframe_
