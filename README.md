@@ -58,6 +58,15 @@ Instead of using regular CSS, which usually requires a seperate document and can
 
 I also used Google Chrome to test my website while developing it. Every time I save my documents and refresh the page on Chrome, I was able to see what changes occoured. Google Chrome is also extremely powerful for more complex JavaScript code, but it was also perfectly suitable for my use case.
 
+### Key Design and Coding Decisions:
+
+When developing the website, I initially planned to add more functionality. I was planning on implementing an ordering system on the menu which would allow the users to add items they want. I also planned on adding a functional submitting system for reporting issues. However, due to time restraints, I decided to cut down on these features. I just keeping a menu for viewing items with prices and a simple but more broad submitting form which could also be used for submitting requests, but is just just for show. In general, I tried to keep the design of the wireframes simplistic so it could be easily implemented into the website without facing major issues.
+
+When programming, the use of Tailwind CSS allowed me to directly code css into my html files, which is a positive for me because I would easily be able to identify an element (HTML) and the design for it (CSS) simultaneously. I can then change and adjust the design and the element without changing between files, simplifying the development process.
+
+### Challanges and solutions:
+
+One issue I faced was creating a grid of boxes in both the home and menu pages. The problem was that I did not know how to adjust the boxes so they are centered and I dont have to manually adjust them properly. I found that using "flex" in css automatically adjusts the size of the boxes and even compresses when the window is smaller than the maximum size of the grid.
 
 # References:
 
