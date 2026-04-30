@@ -68,6 +68,25 @@ When programming, the use of Tailwind CSS allowed me to directly code css into m
 
 One issue I faced was creating a grid of boxes in both the home and menu pages. The problem was that I did not know how to adjust the boxes so they are centered and I dont have to manually adjust them properly. I found that using "flex" in css automatically adjusts the size of the boxes and even compresses when the window is smaller than the maximum size of the grid.
 
+# Testing:
+
+## Manual Testing:
+
+The first user story I tested was James, who was a first-time visitor. The main thing that he wanted was a centralised place to view the menu and item prices, instead of having to rely on third-party websites. He also wanted to be able to access the website through his phone.
+
+| James' Suggestions | Testing suggestions in website |
+| :--- | :--- |
+| Website accessible on phone | While box implementation was designed to work for phone, resizing the grid might require JavaScript. Still technically viewable on phone |
+| Centralized menu and item prices | Implemented a full menu of items with images, prices and extra details in a grid format. Simple and easy to read |
+
+The second user story I tested was Sophie, who was a returning visitor. She 
+
+The third user story I tested was Margret, who was an accessability-dependent returning-visitor. A feature she wanted was to be able to request special services before actually visiting the store instead of having to ask every time in person.
+
+| Margrets' Suggestions | Testing suggestions in website |
+| :--- | :--- |
+| Website contains form for requests | A form was created on "Contact Us" page which can be used to report issues or request something. Contains a short worded reason and a section for extra details |
+
 # References:
 
 https://www.incentius.com/blog-posts/pros-and-cons-of-using-tailwind-css/#:~:text=When%20it%20comes%20to%20styling,from%20scratch%20when%20creating%20designs.
