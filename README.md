@@ -46,6 +46,8 @@ _Menu Page_
 
 _Contact Us Page_
 
+Link to the page (hosted on GitHub Pages): https://mo-chowd.github.io/DUXA2
+
 ## Development Process:
 
 The three above screenshots show the finished website. Similar to the wireframes, there is a home page, menu page and contact us page. The home page introduces the customer to the store, providing a title, "about us" and information on what they sell. The menu page contains the items on the menu as well as specials. The Contact Us page provides helpful information such as phone numbers and opening times. All of these pages are styled to look somewhat clean and readable.
@@ -101,7 +103,43 @@ The second issue was the formatting on some of the areas such as the social medi
 
 ## Automated Testing:
 
+I used Google Lighthouse to test my website:
 
+### Home Page on desktop
+
+<img width="951" height="864" alt="image" src="https://github.com/user-attachments/assets/e5d96b2f-9029-4247-97f6-83993597bd67" />
+<img width="940" height="783" alt="image" src="https://github.com/user-attachments/assets/0c170e81-f0d2-4ea8-907f-b1ca6b840ff6" />
+
+### Home Page on mobile
+
+<img width="949" height="862" alt="image" src="https://github.com/user-attachments/assets/1d69b74f-9441-4ebe-bf06-69355bb9b11e" />
+<img width="957" height="763" alt="image" src="https://github.com/user-attachments/assets/6a6000f8-832b-4a43-a11d-599252a45606" />
+
+### Menu Page on desktop
+
+<img width="945" height="862" alt="image" src="https://github.com/user-attachments/assets/7bb96041-4be9-48c5-940d-b568bc534e71" />
+<img width="952" height="790" alt="image" src="https://github.com/user-attachments/assets/7d28d7fc-6d21-41eb-895f-3fbf6d9a36a0" />
+
+### Menu Page on mobile
+
+<img width="946" height="870" alt="image" src="https://github.com/user-attachments/assets/d11677d8-c29d-4eb6-800c-a5e5dd0777c0" />
+<img width="957" height="817" alt="image" src="https://github.com/user-attachments/assets/44fc6b87-89cf-4dee-b0d1-2468541455ca" />
+
+### Contact Us Page on desktop
+
+<img width="948" height="870" alt="image" src="https://github.com/user-attachments/assets/a57e2c12-59e1-4f70-a7ec-5885e0f56b5c" />
+<img width="959" height="624" alt="image" src="https://github.com/user-attachments/assets/e67d740c-0e97-4b43-858b-8bcaf44b3ccd" />
+
+### Contact Us Page on mobile
+
+<img width="946" height="864" alt="image" src="https://github.com/user-attachments/assets/fca30983-19d4-4a6f-8f20-83e559c3069f" />
+<img width="959" height="732" alt="image" src="https://github.com/user-attachments/assets/78de127b-2391-4745-b89f-564a1876586e" />
+
+### Google Lighthouse links for report
+
+https://pagespeed.web.dev/analysis/https-mo-chowd-github-io-DUXA2-index-html/eh83hea2iy?form_factor=desktop
+https://pagespeed.web.dev/analysis/https-mo-chowd-github-io-DUXA2-menu-html/1xl8c4q66d?form_factor=desktop
+https://pagespeed.web.dev/analysis/https-mo-chowd-github-io-DUXA2-contact-html/hbaa1c6v38?form_factor=mobile
 
 # References:
 
