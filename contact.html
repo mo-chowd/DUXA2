@@ -169,20 +169,5 @@
     </div>
   </main>
 
-  <script>
-    function handleSubmit(e) {
-      e.preventDefault();
-      const subject = document.getElementById('subject').value.trim();
-      if (!subject) {
-        document.getElementById('subject').focus();
-        return;
-      }
-      document.getElementById('successMsg').classList.add('show');
-      const btn = document.getElementById('contactForm').querySelector('button');
-      btn.disabled = true;
-      btn.style.opacity = '0.5';
-    }
-  </script>
-
 </body>
 </html>
