@@ -79,13 +79,29 @@ The first user story I tested was James, who was a first-time visitor. The main 
 | Website accessible on phone | While box implementation was designed to work for phone, resizing the grid might require JavaScript. Still technically viewable on phone |
 | Centralized menu and item prices | Implemented a full menu of items with images, prices and extra details in a grid format. Simple and easy to read |
 
-The second user story I tested was Sophie, who was a returning visitor. She 
+The second user story I tested was Sophie, who was a returning visitor. She wanted to be able to navigate using the TAB key and to also see allergies that certain items may contain. She also wanted to see the specials.
+
+| Sophies' Suggestions | Testing suggestions in website |
+| :--- | :--- |
+| Website can be navigated with TAB key | The only interactive parts on this website is the navigation bar, form for issues/requests and social media links. But all those elements are interactable with the TAB key |
+| Allergies on menu | Managed to mention the allergies that certain products may contain however it is very basic as it is only listed beneath the grid |
+| Specials | While there are specials listed, this is just the general listing and not specific. However that can be simply changed by updating the content for that box |
 
 The third user story I tested was Margret, who was an accessability-dependent returning-visitor. A feature she wanted was to be able to request special services before actually visiting the store instead of having to ask every time in person.
 
 | Margrets' Suggestions | Testing suggestions in website |
 | :--- | :--- |
 | Website contains form for requests | A form was created on "Contact Us" page which can be used to report issues or request something. Contains a short worded reason and a section for extra details |
+
+### Issues with the website
+
+The first issue I have ran into is the formatting on the boxes on the menu. For some reason, even though I managed to fill in the image area of the box with the relevent images, the menu for some reason puts the images over the image box instead of filling the box nicely. All information inside the boxes are still visible, but the design is not what I intended.
+
+The second issue was the formatting on some of the areas such as the social media and phone number sections, where I was unable to get the emails and phone numbers to align correctly, resulting in a slighly odd and unorganised look. Another issue is the text mentioning the allergies beneath the grid of menu items in the menu page, where I was unable to apply a gap to seperate them.
+
+## Automated Testing:
+
+
 
 # References:
 
